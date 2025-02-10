@@ -67,7 +67,7 @@ session_start();
 
     <section id="features" class="features">
         <div class="container">
-            <h2 class="text-center mb-5">Why Choose HamroUsers?</h2>
+            <h2 class="text-center mb-5">Why Choose MeroUsers?</h2>
             <div class="row">
                 <div class="col-md-4 feature-item">
                     <i class="fas fa-shield-alt"></i>
@@ -103,7 +103,7 @@ session_start();
         <div class="container">
             <div class="row py-4">
                 <div class="col-lg-4 mb-4 mb-lg-0">
-                    <h5>HamroUsers</h5>
+                    <h5>MeroUsers</h5>
                     <p>Transforming digital experiences through innovative solutions.</p>
                 </div>
                 <div class="col-lg-4 mb-4 mb-lg-0">
@@ -114,7 +114,7 @@ session_start();
                     </ul>
                 </div>
                 <div class="col-lg-4">
-                    <h5>Connect With Us</h5>
+                    <h5>Connect With Me</h5>
                     <div class="social-links">
                     <a href="https://www.facebook.com/sandesh.freak"><i class="fab fa-facebook"></i></a>
                     <a href="https://github.com/Sand3shog"><i class="fab fa-github"></i></a>
