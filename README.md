@@ -5,9 +5,9 @@
 MeroUsers is a web-based user management system that allows users to register, log in, and manage their profiles. The system is built using PHP and MySQL, featuring a simple and user-friendly interface.
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/160f4364-5b90-4cfe-b7dd-0818ef99202d)
+![image](https://github.com/user-attachments/assets/e08917e7-1e81-41db-b9ea-5e5b395a4315)
 
-![image](https://github.com/user-attachments/assets/98d5fd3d-9eab-4b9c-a7b2-497e51028488)
+![image](https://github.com/user-attachments/assets/06fa11b1-8aa1-4c9f-86aa-a9192105cd8a)
 
 ![image](https://github.com/user-attachments/assets/9c2e771c-2070-4e40-ac7e-14ffe15c0bfd)
 
